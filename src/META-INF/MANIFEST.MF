@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+MIDlet-1: NinjaSchoo,/icon.png,main.GameMidlet
+MIDlet-Vendor: Midlet Suite Vendor
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: NinjaSchool Midlet Suite
+MIDlet-Version: 1.0.0
+MicroEdition-Profile: MIDP-2.0
+
